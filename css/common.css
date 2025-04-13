@@ -17,6 +17,11 @@ body {
   list-style: none;
   flex-wrap: wrap;
   gap: 10px;
+  margin-left: 10px;
+}
+.gallery li img{
+  width: 360px;
+  height: 300px;
 }
 #boxes{
   display: flex;
